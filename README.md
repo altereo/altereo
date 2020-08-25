@@ -21,8 +21,8 @@
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altereo" />
  </a>
- <!--START_SECTION:waka-->
- <!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
  
 ## What I Do:
  Really not much, to be honest. Most of my work isn't good enough to show yet. But hopefully that will change soon!
