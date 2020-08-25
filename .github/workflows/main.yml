@@ -2,13 +2,13 @@
 
 name: Main Workflow
 
-on: [push, workflow-dispatch]
+on: [push, workflow_dispatch]
 jobs:
   main:
     runs-on: ubuntu-latest
-     steps:
-      - name: Profile Readme Stats
-        uses: teoxoy/profile-readme-stats@v1
+    steps:
+     - name: Profile Readme Stats
+       uses: teoxoy/profile-readme-stats@v1
 
 
 
