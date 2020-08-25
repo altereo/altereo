@@ -24,3 +24,10 @@
  
 ## What I Do:
  Really not much, to be honest. Most of my work isn't good enough to show yet. But hopefully that will change soon!
+
+<details>
+ <summary>
+  Random Joke (Courtesy of <a href=https://github.com/ABSphreak/readme-jokes>Abhinav Sharma</a>)
+ </summary>
+ <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</details>
