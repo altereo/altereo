@@ -1,0 +1,14 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Main Workflow
+
+on: [push, workflow-dispatch]
+jobs:
+  main:
+    runs-on: ubuntu-latest
+     steps:
+      - name: Profile Readme Stats
+        uses: teoxoy/profile-readme-stats@v1
+
+
+
