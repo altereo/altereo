@@ -22,6 +22,76 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altereo" />
  </a>
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 35 Contributions in the Year 2020
+ > 
+> 📦 179.2 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories
+ > 
+> 🔑 14 Private Repositories 
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    10 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
+🌆 Daytime    20 commits     ████████████████░░░░░░░░░   66.67% 
+🌃 Evening    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33% 
+Tuesday      22 commits     ██████████████████░░░░░░░   73.33% 
+Wednesday    3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Friday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33% 
+Saturday     2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+Sunday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Australia/Darwin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               12 repos            █████████████████████░░░░   85.71% 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/altereo/altereo/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
  
 ## What I Do:
