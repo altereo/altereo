@@ -21,7 +21,11 @@
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altereo" />
  </a>
- 
+
+<details>
+ <summary>
+  Metrics
+ </summary>
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -94,7 +98,8 @@ Python                   2 repos             ███░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
- 
+</details>
+
 ## What I Do:
  Really not much, to be honest. Most of my work isn't good enough to show yet. But hopefully that will change soon!
 
