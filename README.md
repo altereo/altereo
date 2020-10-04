@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 49 Contributions in the Year 2020
+> 🏆 52 Contributions in the Year 2020
  > 
 > 📦 179.4 kB Used in Github's Storage 
  > 
@@ -36,7 +36,7 @@
  > 
 > 📜 5 Public Repositories
  > 
-> 🔑 15 Private Repositories 
+> 🔑 16 Private Repositories 
 
 **I'm an Early 🐤** 
 
@@ -67,16 +67,18 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Darwin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     6 mins              ████████████████████░░░░░   82.6% 
+JSON                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.77% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Atom                     8 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+tsssaverweb              8 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  8 mins              █████████████████████████   100.0%
 
 ```
 
