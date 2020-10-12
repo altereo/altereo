@@ -28,15 +28,15 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 52 Contributions in the Year 2020
+> 🏆 56 Contributions in the Year 2020
  > 
-> 📦 179.4 kB Used in Github's Storage 
+> 📦 180.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories
  > 
-> 🔑 16 Private Repositories 
+> 🔑 17 Private Repositories 
 
 **I'm an Early 🐤** 
 
@@ -67,24 +67,26 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Darwin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               44 mins             ████████████████████████░   98.76% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.24%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Atom                     45 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+geometrize-video         45 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  45 mins             █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               13 repos            █████████████████████░░░░   86.67% 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33%
+JavaScript               14 repos            ████████████████████░░░░░   82.35% 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+HTML                     1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
 
 ```
 
