@@ -67,17 +67,16 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Darwin
 
 💬 Programming Languages: 
-JavaScript               44 mins             ████████████████████████░   98.76% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.24%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Atom                     45 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-geometrize-video         45 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  45 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
