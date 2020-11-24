@@ -92,7 +92,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/altereo/altereo/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/altereo/altereo/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
