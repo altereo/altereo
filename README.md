@@ -40,6 +40,48 @@
  > 
 > 🔑 22 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    3 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
+🌆 Daytime    4 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
+🌃 Evening    18 commits     ██████████████████░░░░░░░   72.0% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Tuesday      7 commits      ███████░░░░░░░░░░░░░░░░░░   28.0% 
+Wednesday    1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.0% 
+Thursday     5 commits      █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Friday       9 commits      █████████░░░░░░░░░░░░░░░░   36.0% 
+Saturday     3 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
+Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Australia/Darwin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -56,7 +98,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/altereo/altereo/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 18:50:54 UTC
+ Last Updated on 16/09/2022 18:52:55 UTC
 <!--END_SECTION:waka-->
 </details>
 
