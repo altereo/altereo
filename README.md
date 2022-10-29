@@ -69,16 +69,16 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Darwin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               2 hrs 2 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Atom                     2 hrs 2 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Projects                 2 hrs 2 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 2 mins        █████████████████████████   100.0%
 
 ```
 
@@ -98,7 +98,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/altereo/altereo/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/10/2022 18:48:24 UTC
+ Last Updated on 29/10/2022 18:46:21 UTC
 <!--END_SECTION:waka-->
 </details>
 
